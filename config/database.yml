@@ -20,6 +20,6 @@ test:
 
 production:
   adapter: postgresql
-  database: netzke_db
+  database: dbqaa9neigq1r8
   pool: 5
   timeout: 5000
